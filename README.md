@@ -12,7 +12,7 @@
    2. Overall animation effect: The movement, rotation, and color changes of circles are driven by time to present a dynamic and smooth visual effect.
    
 - Inspiration
-  1. Appearance of circles: Inspired by the image below, my animation attempts to simulate this free-flowing form, creating a light, soft and vibrant atmosphere through the circular appearance and animation effect one by one.
+  1. Appearance of circles: Inspired by the image below, my animation attempts to simulate this free-flowing form, The speed and frequency with which the circular patterns appear one by one also reflects this rhythmic atmosphere.
    ![image of my inspiration](assets//截屏2024-05-27%20下午6.22.51.png)
    ![](assets//截屏2024-05-27%20下午6.22.59.png)
    ![](assets//截屏2024-05-27%20下午6.23.59.png)
